@@ -122,8 +122,6 @@ namespace vscode
                 {
                     Console.WriteLine("Invalid Input");
                     continue;
-
-
                 }
             } Console.WriteLine("You've got " + score + "/" + num_of_questions);
         } 
